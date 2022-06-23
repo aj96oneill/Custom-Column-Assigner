@@ -1,0 +1,9 @@
+[
+    {
+        "key":"A",
+        "logic":"equals",
+        "value":"a",
+        "associated_query":[
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "key":"Title",
+        "logic":"equals",
+        "value":"t2",
+        "assign_to":"atm_id",
+        "associated_query":[
+            {
+                "key":"Special",
+                "logic":"contains",
+                "value":["b", "d"]
+            }
+        ]
+    }
+]

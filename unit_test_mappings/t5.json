@@ -1,0 +1,19 @@
+[
+    {
+        "key":"A",
+        "logic":"equals",
+        "value":"a",
+        "assign_to":"test",
+        "post_run": "L1",
+        "associated_query":[
+        ]
+    },
+    {
+        "key":"C",
+        "logic":"equals",
+        "value":"q",
+        "assign_to":"test",
+        "associated_query":[
+        ]
+    }
+]

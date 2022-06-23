@@ -1,0 +1,10 @@
+[
+    {
+        "key":"A",
+        "logic":"equals",
+        "value":"d",
+        "assign_to":"test",
+        "associated_query":[
+        ]
+    }
+]

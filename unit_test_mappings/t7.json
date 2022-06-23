@@ -1,0 +1,17 @@
+[
+    {
+        "key":"C",
+        "logic":"equals",
+        "value":"z",
+        "assign_to":"test",
+        "associated_query":[
+        ]
+    },
+    {
+        "key":"A",
+        "logic":"equals",
+        "assign_to":"test",
+        "associated_query":[
+        ]
+    }
+]

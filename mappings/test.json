@@ -1,0 +1,15 @@
+[
+    {
+        "key":"Title",
+        "logic":"equals",
+        "value":"t1",
+        "assign_to":"value 1",
+        "associated_query":[
+            {
+                "key":"Col1",
+                "logic":"contains",
+                "value":["x","y"]
+            }
+        ]
+    }
+]

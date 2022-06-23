@@ -1,0 +1,8 @@
+[
+    {
+        "key":"C",
+        "logic":"equals",
+        "value":"z",
+        "assign_to":"test"
+    }
+]

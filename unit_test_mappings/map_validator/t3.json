@@ -1,0 +1,10 @@
+[
+    {
+        "key":"A",
+        "logic":"invalid",
+        "value":"a",
+        "assign_to":"test",
+        "associated_query":[
+        ]
+    }
+]

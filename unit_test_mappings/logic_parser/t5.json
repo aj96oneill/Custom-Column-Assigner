@@ -1,0 +1,10 @@
+[
+    {
+        "key":"C",
+        "logic":"starts_with",
+        "value":"z",
+        "assign_to":"test",
+        "associated_query":[
+        ]
+    }
+]

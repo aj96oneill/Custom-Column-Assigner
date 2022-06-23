@@ -1,0 +1,15 @@
+[
+    {
+        "key":"B",
+        "logic":"contains",
+        "value":"y",
+        "assign_to":"test",
+        "associated_query":[
+            {
+                "key":"C",
+                "logic":"not_contains",
+                "value": ["c", "f"]
+            }
+        ]
+    }
+]

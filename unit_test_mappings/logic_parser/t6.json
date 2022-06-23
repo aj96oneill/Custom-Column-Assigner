@@ -1,0 +1,10 @@
+[
+    {
+        "key":"C",
+        "logic":"not_real",
+        "value":"z",
+        "assign_to":"test",
+        "associated_query":[
+        ]
+    }
+]

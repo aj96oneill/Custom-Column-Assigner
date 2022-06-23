@@ -1,0 +1,11 @@
+[
+    {
+        "key":"B",
+        "logic":"not_contains",
+        "value":["e","y"],
+        "assign_to":"test",
+        "associated_query":[
+           
+        ]
+    }
+]

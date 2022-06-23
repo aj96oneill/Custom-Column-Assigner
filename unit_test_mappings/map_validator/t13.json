@@ -1,0 +1,11 @@
+[
+    {
+        "key":"A",
+        "logic":"equals",
+        "value":"a",
+        "assign_to":"test",
+        "post_run": "L1",
+        "associated_query":[
+        ]
+    }
+]

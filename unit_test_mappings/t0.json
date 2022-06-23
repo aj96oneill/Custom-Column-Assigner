@@ -1,0 +1,16 @@
+[
+    {
+        "key":"",
+        "logic":"",
+        "value":"",
+        "assign_to":"",
+        "post_run":"",
+        "associated_query":[
+            {
+                "key":"",
+                "logic":"",
+                "value":[]
+            }
+        ]
+    }
+]

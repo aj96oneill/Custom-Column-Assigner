@@ -1,0 +1,15 @@
+[
+    {
+        "key":"A",
+        "logic":"equals",
+        "value":"a",
+        "assign_to":"test",
+        "associated_query":[
+            {
+                "key":"D",
+                "logic":"not_equals",
+                "value": ["e", "y"]
+            }
+        ]
+    }
+]
